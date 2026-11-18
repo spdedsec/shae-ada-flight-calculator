@@ -1,0 +1,3 @@
+# Expected output for: velocity=25, angle=60, gravity=25.00
+# time_of_flight  max_height  range  impact_velocity  impact_angle
+1.732051          4.687500    21.650635   25.000000     -60.000000
